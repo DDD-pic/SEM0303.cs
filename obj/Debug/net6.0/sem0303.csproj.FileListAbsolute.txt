@@ -1,0 +1,15 @@
+C:\Users\Дом\Desktop\sem0303\bin\Debug\net6.0\sem0303.exe
+C:\Users\Дом\Desktop\sem0303\bin\Debug\net6.0\sem0303.deps.json
+C:\Users\Дом\Desktop\sem0303\bin\Debug\net6.0\sem0303.runtimeconfig.json
+C:\Users\Дом\Desktop\sem0303\bin\Debug\net6.0\sem0303.dll
+C:\Users\Дом\Desktop\sem0303\bin\Debug\net6.0\sem0303.pdb
+C:\Users\Дом\Desktop\sem0303\obj\Debug\net6.0\sem0303.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\sem0303\obj\Debug\net6.0\sem0303.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\Desktop\sem0303\obj\Debug\net6.0\sem0303.AssemblyInfoInputs.cache
+C:\Users\Дом\Desktop\sem0303\obj\Debug\net6.0\sem0303.AssemblyInfo.cs
+C:\Users\Дом\Desktop\sem0303\obj\Debug\net6.0\sem0303.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\sem0303\obj\Debug\net6.0\sem0303.dll
+C:\Users\Дом\Desktop\sem0303\obj\Debug\net6.0\refint\sem0303.dll
+C:\Users\Дом\Desktop\sem0303\obj\Debug\net6.0\sem0303.pdb
+C:\Users\Дом\Desktop\sem0303\obj\Debug\net6.0\sem0303.genruntimeconfig.cache
+C:\Users\Дом\Desktop\sem0303\obj\Debug\net6.0\ref\sem0303.dll
